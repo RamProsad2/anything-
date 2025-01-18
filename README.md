@@ -1,2 +1,1 @@
-# anything-
-setting up git
+Website for gaming
